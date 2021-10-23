@@ -47,6 +47,7 @@ class MainActivityTest {
 
         launchActivity<MainActivity>().apply {
             // TODO("validate if list displays items returned by server")
+
         }
 
         server.close()

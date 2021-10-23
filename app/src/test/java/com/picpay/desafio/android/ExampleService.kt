@@ -1,12 +1,13 @@
 package com.picpay.desafio.android
 
 import com.picpay.framework.api.PicPayService
+import com.picpay.framework.db.UserEntity
 
-class ExampleService(
+class ApiMockServiceService(
     private val service: PicPayService
 ) {
 
-    fun example(): List<User> {
+    fun apiMock(): List<UserEntity> {
         val users = service.getUsers().execute()
 
         return users.body() ?: emptyList()
