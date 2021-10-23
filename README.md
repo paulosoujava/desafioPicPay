@@ -21,5 +21,4 @@ Neste desafio TENTEI aplicar um pouco de tudo que sei tais como:
 
 ## Meu contato:
 
-![GitHub Logo](https://media-exp1.licdn.com/dms/image/C4D03AQFP6epzVVmVoQ/profile-displayphoto-shrink_200_200/0/1634576045698?e=1640217600&v=beta&t=aBGRYStGFG1ZghN14ebT8QizopQoS1U9vIxXiI8KnnE)
 [Linkedim](https://www.linkedin.com/in/androidjava/)
