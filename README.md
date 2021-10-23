@@ -13,10 +13,11 @@ Neste desafio TENTEI aplicar um pouco de tudo que sei tais como:
 * LIVEDATA
 * MVVM
 * ClEAN ARCHITECTURE
+* DESIGN PATTERNS ( FACTORY, SINGLETON, OBSERVER )
 
-DESIGN PATTERNS ( FACTORY, SINGLETON, OBSERVER )
+
 <img src="https://github.com/paulosoujava/desafioPicPay/blob/main/clean.png" width="300"/>
 <img src="https://github.com/paulosoujava/desafioPicPay/blob/main/architecture.png" width="300"/>
 
 ![GitHub Logo](https://media-exp1.licdn.com/dms/image/C4D03AQFP6epzVVmVoQ/profile-displayphoto-shrink_200_200/0/1634576045698?e=1640217600&v=beta&t=aBGRYStGFG1ZghN14ebT8QizopQoS1U9vIxXiI8KnnE)
-Format: ![Linkedim](https://www.linkedin.com/in/androidjava/)
+![Linkedim](https://www.linkedin.com/in/androidjava/)
