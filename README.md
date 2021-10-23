@@ -16,8 +16,8 @@ Neste desafio TENTEI aplicar um pouco de tudo que sei tais como:
 * DESIGN PATTERNS ( FACTORY, SINGLETON, OBSERVER )
 
 
-<img src="https://github.com/paulosoujava/desafioPicPay/blob/main/clean.png" width="300"/>
-<img src="https://github.com/paulosoujava/desafioPicPay/blob/main/architecture.png" width="300"/>
+<img src="https://github.com/paulosoujava/desafioPicPay/blob/main/clean.png" width="600"/>
+<img src="https://github.com/paulosoujava/desafioPicPay/blob/main/architecture.png" width="600"/>
 
 ## Meu contato:
 
