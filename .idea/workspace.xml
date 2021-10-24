@@ -112,7 +112,7 @@
       <recent name="com.picpay.desafio.android" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.shouldDisplayListI...()">
+  <component name="RunManager" selected="Gradle.ExampleServiceTest">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="desafio-android.app" />
       <option name="DEPLOY" value="true" />
@@ -334,9 +334,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ExampleServiceTest" />
         <item itemvalue="Android Instrumented Tests.shouldDisplayListI...()" />
         <item itemvalue="Gradle.DatabaseServiceTest" />
-        <item itemvalue="Gradle.ExampleServiceTest" />
         <item itemvalue="Gradle.ExampleTest" />
         <item itemvalue="Gradle.ExampleServiceTest.should return a list of user entity" />
       </list>
