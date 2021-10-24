@@ -23,4 +23,4 @@ Neste desafio TENTEI aplicar um pouco de tudo que sei tais como:
 
 ## Meu contato:
 
-[Linkedim](https://www.linkedin.com/in/androidjava/)
+[Linkedin](https://www.linkedin.com/in/androidjava/)
