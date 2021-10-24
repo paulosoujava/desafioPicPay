@@ -54,7 +54,6 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
         adapter = UserListAdapter()
         recyclerView.adapter = adapter
         recyclerView.layoutManager = LinearLayoutManager(this)
-
     }
 
     private fun observerError() {

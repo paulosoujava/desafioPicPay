@@ -47,6 +47,7 @@ class MainActivityTest {
 
         launchActivity<MainActivity>().apply {
             // TODO("validate if list displays items returned by server")
+            assert(server.bodyLimit >0)
 
         }
 
